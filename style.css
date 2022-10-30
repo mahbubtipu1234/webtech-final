@@ -1,0 +1,88 @@
+section{
+   display: flex;            ; 
+}
+
+.second-sec{
+    width: 100%;
+    padding-left: 10%;
+    padding-top: 5%;
+    font-size: 70px;
+    border-left: 5px solid; 
+}
+.sec-2{
+    margin-right: 20px;
+}
+.wd{
+    width: 50%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+#h11{
+    color: rgba(177, 221, 142, 0.767);
+    -ms-text-size-adjust: 110%;
+    border-left: 5px solid;
+    border-image: linear-gradient(red,blue);
+    border-image-slice: 1;
+    font-size: 70px;
+}
+#second{
+    width: 50%;
+}
+#h33{
+    color: saddlebrown;
+}
+#pp{
+    font-size: 50px;
+}
+.button{
+    text-decoration: none;
+    background-color: sienna;
+    padding: 10px 30px;
+}
+img{
+    border-radius: 900px;
+}
+
+
+}
+.l-sec{
+    width:50%;
+    margin-top: 50px;
+    padding-left: 50px;
+    }
+
+.sec{
+    width:100%;
+    padding-left: 10;
+    font-size:55px;
+    box-shadow: 5px;
+    text-align: center;
+    border-radius: 50px;
+    border: solid;
+    margin: 5%
+    
+}
+.justify{
+    width: 33%;
+    padding: 2%;
+    
+}
+.last{
+    width:80%
+}
+
+.forth-part{
+    width: 25%;
+    font-size: 40px;
+    text-align: center;
+    position: static;
+    padding-left: 18%;
+}
+#fot{
+    color: rgb(38, 0, 128) ;
+}
+.foot{
+    text-align: center;
+    background-color: blanchedalmond;
+    color: brown;
+    padding: 20px;
